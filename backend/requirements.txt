@@ -1,0 +1,7 @@
+pymupdf
+google-generativeai
+groq
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
